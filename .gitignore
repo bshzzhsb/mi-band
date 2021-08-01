@@ -1,0 +1,17 @@
+/.yarn/*
+!/.yarn/releases
+!/.yarn/plugins
+!/.yarn/sdks
+
+# zero-installs
+!/.yarn/cache
+
+# dist
+/dist
+/build
+
+# vscode
+.vscode/extensions.json
+
+# snowpack cache
+.cache
